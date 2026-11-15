@@ -10,7 +10,8 @@ This project focuses on the development of an Autonomous Mobile Robot (AMR) usin
 ### 1. Setup Environment
 ```bash
 # Clone the repository
-git clone https://github.com/Abo-7odaa/Autonomous-indoor-delivery-robot.git
+git clone https://github.com/MahmoudHesham6/Autonomous-indoor-delivery-robot.git
+
 
 # Build the workspace
 cd Autonomous-indoor-delivery-robot
